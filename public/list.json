@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Horror",
+        "title":"Adventures in Dreamland",
+        "price":0,
+        "category":"free",
+        "image":"https://i.pinimg.com/736x/f8/61/53/f86153e0836efadf2d355fb7e0dce77f.jpg"
+
+
+    },
+
+    {
+        "id":2,
+        "name":"Comedy ",
+        "title":"Giggles and Guffaws",
+        "price":20,
+        "category":"entertainment",
+        "image":"https://thumbs.dreamstime.com/b/open-book-color-splash-22372033.jpg"
+
+
+    },
+
+    {
+        "id":3,
+        "name":"Sports ",
+        "title":"Giggles and Guffaws",
+        "price":50,
+        "category":"Sports",
+        "image":"https://thumbs.dreamstime.com/b/open-book-color-splash-22372033.jpg"
+
+
+    },
+
+    {
+        "id":4,
+        "name":"Music ",
+        "title":"Giggles and Guffaws",
+        "price":400,
+        "category":"free",
+        "image":"https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_1200x1200/public/field_blog_entry_images/2024-03/sheet-music-6305620_1920.jpg?itok=TjZQMFgs"
+
+
+    },
+
+    {
+        "id":5,
+        "name":"Action",
+        "title":"Giggles and Guffaws",
+        "price":200,
+        "category":"Action",
+        "image":"https://www.vecteezy.com/photo/2145384-miniature-couple-riding-a-motorcycle-on-an-old-book-valentine-s-day-concept"
+
+
+    },
+    {
+        "id":6,
+        "name":"Food",
+        "title":"Giggles and Guffaws",
+        "price":0,
+        "category":"free",
+        "image":"https://www.dotsanddoodles.in/cdn/shop/products/01_c483f5da-7e22-4ecc-9522-b23253c4d7c2_1445x.jpg?v=1638529280"
+
+
+    },
+    {
+        "id":7,
+        "name":"Fantasy",
+        "title":"Giggles and Guffaws",
+        "price":0,
+        "category":"free",
+        "image":"https://i.etsystatic.com/39582183/r/il/45396c/4881629201/il_570xN.4881629201_oksp.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"Adventure",
+        "title":"Giggles and Guffaws",
+        "price":0,
+        "category":"free",
+        "image":"https://res.klook.com/image/upload/c_fill,w_750,h_560/q_80/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fb2mjfggpv8f21ncejwt.jpg"
+    }
+]
